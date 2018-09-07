@@ -20,7 +20,7 @@ hr{
 
 header.startup {
 	background-position: center;
-	background-image: url("indmehdi/apple.jpg");
+	background-image: url("/indmehdi/apple.jpg");
 	background-size: cover;
 	height: 100%;
 }
